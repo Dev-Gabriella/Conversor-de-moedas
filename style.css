@@ -12,7 +12,7 @@ body{
     background-color: rgb(19, 4, 107);
 }
 .logo {
-    width: 200px;
+    width: 100px;
     margin-left: auto;
     margin-right: auto;
     display: block;
@@ -21,7 +21,7 @@ body{
 }
 
 main{
-    width: 375px;
+    width: 355px;
     background: rgba(52, 106, 187, 0.945);
     border-radius:20px;
     margin: auto;
